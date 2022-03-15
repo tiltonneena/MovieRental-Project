@@ -1,0 +1,30 @@
+# Query used to find the average amount paid by the top 5 customers
+
+SELECT
+    AVG(total_amount_paid.sum_amount_paid) AS average_amount_paid
+FROM
+    (SELECT
+        C.customer_id,
+        C.first_name,
+        C.last_name,
+        E.city,
+        F.country,
+        SUM(amount) sum_amount_paid
+     FROM payment A
+     INNER JOIN rental B ON A.customer_id = B.customer_id
+     INNER JOIN customer C ON B.customer_id = C.customer_id
+     INNER JOIN address D ON C.address_id = D.address_id
+     INNER JOIN city E ON D.city_id = E.city_id
+     INNER JOIN country F ON E.country_id = F.country_id
+     WHERE city IN ('Aurora',
+                    'Atlixco',
+                    'Xintai',
+                    'Adoni',
+                    'Dhule(Dhulia)',
+                    'Kurashiki',
+                    'Pingxiang',
+                    'Sivas',
+                    'Celaya',
+                    'So Leopoldo')
+     GROUP BY c.customer_id, first_name, last_name, city, country
+     LIMIT 5) AS total_amount_paid
