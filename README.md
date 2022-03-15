@@ -14,7 +14,7 @@ world. Now facing stiff competition from streaming services, the R. Stealth mana
 
  ## Data
  - [Dataset](link to data)
- - [Data Dictionary]() 
+ - [Data Dictionary](https://github.com/tiltonneena/VideoStore---SQL/blob/main/DataDictionary.pdf) 
  
  ## Tools Used
  - DbVisualizer
