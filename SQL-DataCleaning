@@ -1,0 +1,30 @@
+# Query used to find duplicate data in the 'film' table
+
+SELECT
+    film_id,
+    title,
+    release_year,
+    language_id,
+    rental_duration,
+    COUNT(*)
+ FROM film
+ GROUP BY
+    film_id,
+    title,
+    release_year,
+    language_id,
+    rental_duration
+ HAVING COUNT(*) > 1
+ 
+ # Query used to check for non-uniform data for variable 'rating' in the 'film' table
+ 
+ SELECT
+    rating
+ FROM film
+ GROUP BY rating
+ 
+ # Query used to update non-uniform data found in 'rating' in the 'film' table
+ 
+ UPDATE film
+ SET rating = 'PG-13'
+ WHERE rating IN ('pg-thirteen', 'PG-thirteen')
