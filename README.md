@@ -25,6 +25,6 @@ world. Now facing stiff competition from streaming services, the R. Stealth mana
  - Microsoft PowerPoint
  
  ## Project Deliverables
- - [Final Excel Report]()
+ - [Final Excel Report](https://github.com/tiltonneena/VideoStore---SQL/blob/main/Final%20Excel%20Report.xlsx)
  - [Final PowerPoint Presentation](https://github.com/tiltonneena/VideoStore---SQL/blob/main/PPT%20Presentation.pdf)
  
