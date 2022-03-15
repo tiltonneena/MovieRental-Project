@@ -13,8 +13,8 @@ world. Now facing stiff competition from streaming services, the R. Stealth mana
 - Do sales figures vary between geographic regions?
 
  ## Data
- [Dataset](link to data)
- [Data Dictionary]() 
+ - [Dataset](link to data)
+ - [Data Dictionary]() 
  
  ## Tools Used
  - DbVisualizer
