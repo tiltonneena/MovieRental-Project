@@ -1,8 +1,8 @@
 # Video Store Project
 
-<img align= "right" src= "https://github.com/tiltonneena/VideoStore---SQL/blob/main/movies.jpg" width="250" height="250">
  ## Overview
- R. Stealth LLC is a movie rental company that used to have stores around the
+<img align= "right" src= "https://github.com/tiltonneena/VideoStore---SQL/blob/main/movies.jpg" width="250" height="250">
+R. Stealth LLC is a movie rental company that used to have stores around the
 world. Now facing stiff competition from streaming services, the R. Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 
 
