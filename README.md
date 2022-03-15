@@ -1,6 +1,6 @@
 # Video Store Project
 
-![This is an image](https://github.com/tiltonneena/VideoStore---SQL/blob/main/movies.jpg)
+<img src= "https://github.com/tiltonneena/VideoStore---SQL/blob/main/movies.jpg" width="100" height="100">
 
  ## Overview
  R. Stealth LLC is a movie rental company that used to have stores around the
