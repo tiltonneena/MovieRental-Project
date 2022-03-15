@@ -25,5 +25,5 @@ world. Now facing stiff competition from streaming services, the R. Stealth mana
  - Microsoft PowerPoint
  
  ## Project Deliverables
- [Final Presentation]()
+ [Final Presentation](https://github.com/tiltonneena/VideoStore---SQL/blob/main/VideoStoreAnalysis.pdf)
  
