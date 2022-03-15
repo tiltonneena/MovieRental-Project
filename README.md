@@ -21,7 +21,7 @@ world. Now facing stiff competition from streaming services, the R. Stealth mana
  ## Tools Used
  - DbVisualizer
  - PgAdmin4
- - PostgreSQL
+ - SQL
  - Tableau
  - Microsoft Excel
  - Microsoft PowerPoint
