@@ -1,4 +1,4 @@
-# Query used to find the average amount paid by the top 5 customers
+# Query used to find the average amount paid by the top 5 customers, by way of subqueries
 
 SELECT
     AVG(total_amount_paid.sum_amount_paid) AS average_amount_paid
