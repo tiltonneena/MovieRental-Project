@@ -1,4 +1,4 @@
-# Movie Rental Project
+# Video Store Project
 
  ## Overview
  R. Stealth LLC is a movie rental company that used to have stores around the
