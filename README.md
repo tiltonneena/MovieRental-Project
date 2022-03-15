@@ -8,7 +8,7 @@ world. Now facing stiff competition from streaming services, the R. Stealth mana
 
  ## Objective
  The goal of this project is to provide answers to key business questions to assist with the launch strategy for the new online streaming service. Key questions include:
- Which movies contributed the most/least to revenue gain?
+- Which movies contributed the most/least to revenue gain?
 - What was the average rental duration for all videos?
 - Which countries are Rockbuster customers based in?
 - Where are customers with a high lifetime value based?
