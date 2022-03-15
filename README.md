@@ -19,9 +19,9 @@ world. Now facing stiff competition from streaming services, the R. Stealth mana
  - [Data Dictionary](https://github.com/tiltonneena/VideoStore---SQL/blob/main/DataDictionary.pdf) 
  
  ## Tools Used
+ - SQL (see queries for cleaning [here](https://github.com/tiltonneena/VideoStoreProject-SQL/blob/main/SQL-DataCleaning), CTE [here](https://github.com/tiltonneena/VideoStoreProject-SQL/blob/main/SQL-Top5CTE), subqueries [here](https://github.com/tiltonneena/VideoStoreProject-SQL/blob/main/SQL-SubqueriesTop5))
  - DbVisualizer
  - PgAdmin4
- - SQL
  - Tableau
  - Microsoft Excel
  - Microsoft PowerPoint
