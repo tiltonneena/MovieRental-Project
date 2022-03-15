@@ -1,3 +1,5 @@
+# Query used to find the average amount paid by the top 5 customers, by way of CTE.
+
 WITH top_five_CTE (customer_id, first_name, last_name, city, country, amount_paid) AS
 (SELECT
     A.customer_id,
