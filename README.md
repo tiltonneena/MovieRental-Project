@@ -66,16 +66,19 @@ The data set used for this project is fictional and contains information about t
 
 ## Deliverables
 For Business Managers - [Final Business Presentation](https://github.com/tiltonneena/VideoStore---SQL/blob/main/PPT%20Presentation.pdf)
-    <p align="center">
-      <img width="450" height="264" src="Images/presentation.jpg"/>
-    </p>
+    
+<p align="center">
+  <img width="450" height="264" src="Images/presentation.jpg"/>
+</p>
    
 
 For Technical Colleagues - [Analysis Report](https://github.com/tiltonneena/VideoStore---SQL/blob/main/Final%20Excel%20Report.xlsx) & [Data Dictionary](https://github.com/tiltonneena/VideoStore---SQL/blob/main/DataDictionary.pdf) 
-    <p align="center">
-      <img width="390" height="106" src="Images/report_technical.jpg"/>
-    </p>
-    <p align="center">
-      <img width="222" height="286" src="Images/datadict.jpg"/>
-    </p>
+    
+<p align="center">
+  <img width="390" height="106" src="Images/report_technical.jpg"/>
+</p>
+
+<p align="center">
+  <img width="222" height="286" src="Images/datadict.jpg"/>
+</p>
  
