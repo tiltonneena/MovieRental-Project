@@ -27,7 +27,7 @@ The data set used for this project is fictional and contains information about t
       <img width="500" height="330" src="Images/RockbusterERD.jpg"/>
     </p>
     <p align="center">
-      <em>ERD illustrates the links between the tables in a relational database; allowing a quick view of what information each table held and which table to query for specific business questions. </em>
+      <em>ERD illustrates the links between the tables in a relational database; allowing a quick view<br>of what information each table held and which table to query for specific business questions. </em>
     </p>
  
 2.	The data answering specific business questions were accessed using SQL commands in PostgreSQL. Other functions performed using SQL commands include data cleaning, data organizing, drafting summary statistics, and table joining.
@@ -69,6 +69,13 @@ For Business Managers - [Final Business Presentation](https://github.com/tiltonn
     <p align="center">
       <img width="450" height="264" src="Images/presentation.jpg"/>
     </p>
-    <p align="center">
+   
 
 For Technical Colleagues - [Analysis Report](https://github.com/tiltonneena/VideoStore---SQL/blob/main/Final%20Excel%20Report.xlsx) & [Data Dictionary](https://github.com/tiltonneena/VideoStore---SQL/blob/main/DataDictionary.pdf) 
+    <p align="center">
+      <img width="390" height="106" src="Images/report_technical.jpg"/>
+    </p>
+    <p align="center">
+      <img width="222" height="286" src="Images/datadict.jpg"/>
+    </p>
+ 
