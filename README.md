@@ -82,6 +82,4 @@ For Technical Colleagues - [Analysis Report](https://github.com/tiltonneena/Vide
   <img width="222" height="286" src="Images/datadict.jpg"/>
 </p>
  
-<p align="center">
-  <img width="500" height="330" src="Images/movies.jpg"/>
-</p>
+
