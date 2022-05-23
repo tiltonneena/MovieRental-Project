@@ -1,7 +1,13 @@
+<p align="right">
+  <a href="https://tiltonneena.github.io/portfolio/">Back to Portfolio Homepage</a>
+</p>
+
 # Rockbuster Stealth Movie Rental Analysis
+### By Neena Tilton
 <p align="center">
   <img width="500" height="330" src="Images/movies.jpg"/>
 </p>
+
 ## Background
 Rockbuster Stealth LLC is a movie rental company planning to use its existing movie licenses to launch an online video rental service in order to stay competitive against other movie streaming companies, such as Netflix and Amazon. The business intelligence department must gain customer insight and data-driven answers to key business questions to inform their upcoming launch strategy.
 
@@ -82,4 +88,6 @@ For Technical Colleagues - [Analysis Report](https://github.com/tiltonneena/Vide
   <img width="222" height="286" src="Images/datadict.jpg"/>
 </p>
  
-
+<p align="right">
+  <a href="https://tiltonneena.github.io/portfolio/">Back to Portfolio Homepage</a>
+</p>
